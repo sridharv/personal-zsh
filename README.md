@@ -1,0 +1,1 @@
+# Personal ZSH configuration
